@@ -7,7 +7,7 @@ This is a repository hosting public information for the **EUCARPIA 2025 Biometri
   * https://www.rcpe.ac.uk
   * https://maps.app.goo.gl/73jkUjuGj2oSzkX17
 
-In addition to the conference we will host a **Satellite workshop on using AlphaSimR & FieldSimR R packages**; 15-16th September 2025. See https://cran.r-project.org/web/packages/AlphaSimR/index.html and https://cran.r-project.org/web/packages/FieldSimR/index.html.
+In addition to the conference we will host a **Satellite workshop on using AlphaSimR & FieldSimR R packages**; 15-16th September 2025. Workshop instructors: [Chris Gaynor](https://www.linkedin.com/in/chris-gaynor-136550249/), [Daniel Tolhurst](https://www.linkedin.com/in/daniel-tolhurst-8abb5685/), and [Gregor Gorjanc](https://www.linkedin.com/in/gregorgorjanc/). See https://cran.r-project.org/web/packages/AlphaSimR/index.html and https://cran.r-project.org/web/packages/FieldSimR/index.html.
 
 **Venue for the satellite workshop**:
   * The Easter Bush Campus of The University of Edinburgh (which hosts The Roslin Institute, The Royal Dick School of Veterinary Medicine, The Global Academy of Agriculture and Food Security, and a range of startups and established businesses) 
@@ -24,15 +24,15 @@ In addition to the conference we will host a **Satellite workshop on using Alpha
   * TODO: Any other dates?
 
 **Invited speakers**
-* Gary Atlin, Bill & Melinda Gates Foundation
-* Rosemary Bailey, University of Saint Andrews
-* Hao Cheng, University of California, Davis
-* Sarah Hearne, CIMMYT
-* Steven Penfield, John Innes Centre
-* Pascal Schopp, KWS Group
-* Julian Taylor, University of Adelaide
-* Andrea Wilson, University of Edinburgh
-* María Xosé Rodríguez-Álvarez, University of Vigo
+* [Gary Atlin, Bill & Melinda Gates Foundation](https://www.linkedin.com/in/gary-atlin-14014014/)
+* [Rosemary Bailey, University of Saint Andrews](https://www.st-andrews.ac.uk/mathematics-statistics/people/rab24/)
+* [Hao Cheng, University of California, Davis](https://www.linkedin.com/in/haochengdata/)
+* [Sarah Hearne, CIMMYT](https://www.linkedin.com/in/sarah-hearne-769b1283/)
+* [Steven Penfield, John Innes Centre](https://www.jic.ac.uk/people/steven-penfield/)
+* [Pascal Schopp, KWS Group](https://www.linkedin.com/in/pascal-schopp-64869619b/)
+* [Julian Taylor, University of Adelaide](https://www.linkedin.com/in/julian-taylor-98888283/)
+* [Andrea Wilson, University of Edinburgh](https://www.linkedin.com/in/andrea-doeschl-wilson-8254a261/)
+* [María Xosé Rodríguez-Álvarez, University of Vigo](https://sidor.uvigo.es/en/staff/permanent-research-staff/maria-jose-rodriguez-alvarez/)
 
 
 **Registration**
