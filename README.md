@@ -10,7 +10,7 @@ This is a repository hosting public information for the **EUCARPIA 2025 Biometri
 In addition to the conference we will host a **Satellite workshop on using AlphaSimR & FieldSimR R packages**; 15-16th September 2025. Workshop instructors: [Chris Gaynor](https://www.linkedin.com/in/chris-gaynor-136550249/), [Daniel Tolhurst](https://www.linkedin.com/in/daniel-tolhurst-8abb5685/), and [Gregor Gorjanc](https://www.linkedin.com/in/gregorgorjanc/). See https://cran.r-project.org/web/packages/AlphaSimR/index.html and https://cran.r-project.org/web/packages/FieldSimR/index.html.
 
 **Venue for the satellite workshop**:
-  * The Easter Bush Campus of The University of Edinburgh (which hosts The Roslin Institute, The Royal Dick School of Veterinary Medicine, The Global Academy of Agriculture and Food Security, and a range of startups and established businesses) 
+  * The Easter Bush Campus of The University of Edinburgh (which hosts The Roslin Institute, The Royal Dick School of Veterinary Medicine, The Global Academy of Agriculture and Food Systems, and a range of startups and established businesses) 
   * https://www.ed.ac.uk/roslin/about/our-campus
   * https://maps.app.goo.gl/L636reGtE8aLS9XZ7
   * The workshop will be at The Roslin Institute in seminar room B-006
